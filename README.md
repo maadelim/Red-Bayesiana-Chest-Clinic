@@ -2,7 +2,7 @@
 Implementación del modelo Chest Clinic (Asia) usando Redes Bayesianas en Python. Proyecto de diagnóstico médico probabilístico con pgmpy.
 # Diagnóstico Probabilístico: Modelo Chest Clinic (Asia) 🏥
 
-Este repositorio contiene la resolución de la **Evaluación Continua 2 (EC3)** centrada en el uso de **Redes Bayesianas** para el diagnóstico médico. Se utiliza el modelo estándar "Asia" para calcular probabilidades de enfermedades pulmonares basándose en factores de riesgo y evidencia clínica.
+Este repositorio contiene la resolución de la **Evaluación Continua 3 (EC3)** centrada en el uso de **Redes Bayesianas** para el diagnóstico médico. Se utiliza el modelo estándar "Asia" para calcular probabilidades de enfermedades pulmonares basándose en factores de riesgo y evidencia clínica.
 
 ##  Descripción del Problema
 El modelo simula el razonamiento de una clínica especializada en el pecho, relacionando variables como:
