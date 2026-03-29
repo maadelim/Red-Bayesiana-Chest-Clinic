@@ -25,5 +25,3 @@ A través del motor de inferencia, el proyecto responde a consultas críticas co
 ##  Referencias
 El desarrollo se apoya en la literatura proporcionada en el curso, incluyendo el artículo de **Prakash P. Shenoy (2023)** sobre inferencia en redes bayesianas incompletas.
 
----
-Desarrollado para el curso de Inteligencia Artificial.
